@@ -1,6 +1,6 @@
 
 [a link](https://github.com/user/repo/blob/branch/other_file.md). 
-[a link](https:///Users/inawise/WorkFolder/friendly-parakeet/Develop/index.html)
+[a link](file:///Users/inawise/WorkFolder/friendly-parakeet/Develop/index.html)
 
 # taskinator
 3. JavaScript Challenge: Password Generator

@@ -1,5 +1,5 @@
 
-[Live site link](file:///Users/inawise/WorkFolder/friendly-parakeet/Develop/index.html)
+[Live site link](https://inawise.github.io/taskinator/)
 
 [Repository link](https://github.com/InaWise/taskinator/blob/main/README.md)
 

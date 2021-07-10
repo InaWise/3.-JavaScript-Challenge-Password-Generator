@@ -1,5 +1,5 @@
 
-[Live site link](https://inawise.github.io/taskinator/)
+[Live site link](https://inawise.github.io/3.-JavaScript-Challenge-Password-Generator/)
 
 [Repository link](https://github.com/InaWise/taskinator/blob/main/README.md)
 

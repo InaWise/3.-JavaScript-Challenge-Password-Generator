@@ -28,7 +28,7 @@ function generateLength() {
   if (lengthChoice >= 8 && lengthChoice <= 128) {
     return parseInt(lengthChoice);
   } else {
-    alert("invalid selection must choose a length of at least 8 characters and no more than 128 characters");
+    alert("invalid selection must bewtween 8 - 128 characters");
   }
 }
 
@@ -132,7 +132,7 @@ function generatePassword() {
   //THEN my input should be validated and at least one character type should be selected
   //prompts for user input
   var usersChoice = "";
-  var nonCaps = prompt("Would you like lowercase letters, uppercase letters, numbers, or special characters");
+  var nonCaps = prompt("Would you like lowercase, uppercase , numeric, or special (special character)");
   
 
   nonCaps = nonCaps.toLowerCase ();
